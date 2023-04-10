@@ -1,0 +1,9 @@
+{
+    "proxy_host": "127.0.0.1:3724",
+    "auth_host": "127.0.0.1:3725",
+    "max_connections": 1000,
+    "connection_timeout": 10,
+    "ban_file": "bans.json",
+    "log_file": "log.json",
+    "max_invalid_packets": 10
+}
